@@ -4,3 +4,9 @@ if (a%2==0){
 } else{
     console.log("number is odd");
 }
+
+// Ternary Operator
+
+let b = 18;
+
+b >= 18 ? console.log("adult") : console.log("Minnor")
